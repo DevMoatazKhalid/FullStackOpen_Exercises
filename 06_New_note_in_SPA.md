@@ -9,5 +9,5 @@ participant server
     deactivate server
 
     Note right of browser: The browser executes the callback function that renders the notes
-    Note right of server: The server add the new note to its collection of notes but does not redirect the browser to reload the page
+    Note left of server: The server adds the new note to its collection of notes but does not redirect the browser to reload the page
 ```
